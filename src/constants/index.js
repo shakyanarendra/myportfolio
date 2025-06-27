@@ -130,7 +130,7 @@ const technologies = [
 const experiences = [
   {
     title: "B.Tech",
-    percentage: "8.98 CGPA",
+    percentage: "9.07 CGPA",
     iname: "Maulana Azad National Institute of Technology (MANIT) Bhopal",
     icon: manit,
     iconBg: "#E6DEDD",
@@ -201,7 +201,7 @@ const projects = [
   {
     name: "TechTrack AI",
     description:
-      "AI-powered web application built with Next.js that helps users explore trending technologies, track progress in various tech domains, and receive personalized AI-driven suggestions to enhance their learning journey.",
+      "Built AI-powered tools that assist users in creating resumes, generating cover letters, taking mock tests, and accessing real-time industry insights. Implemented secure user onboarding and personalized analytics using Clerk and Inngest. Designed a responsive and modern UI using Tailwind CSS and Shadcn UI to ensure a seamless user experience.",
 
     // Next JS, Tailwind, Gemini AI, Prisma, Shadcn UI
     tags: [
@@ -232,7 +232,7 @@ const projects = [
   {
     name: "Restaurant Website",
     description:
-      "Web application developed to provide users with an intuitive platform for exploring restaurant details, browsing menus, and easily accessing contact and location information, offering a smooth and informative user experience.",
+      "Built a scalable food ordering platform integrated with Stripe for payments and role-based access control. Implemented dynamic state management using Zustand, along with a responsive UI and SEO optimization. Enabled advanced search, real-time order status updates, and admin capabilities for efficient menu management.",
     tags: [
       {
         name: "MERN Stack",
@@ -261,7 +261,7 @@ const projects = [
   {
     name: "SmartNotes App",
     description:
-      "SmartNotes is a web-based application that enables users to securely create, organize, and manage personal notes with a clean interface, powerful search functionality, and reliable cloud storage for easy access anytime, anywhere.",
+      "Built a MERN stack application featuring secure cloud storage and user authentication. Developed a clean, intuitive interface to enhance user experience and streamline the note-taking process. Implemented fast search functionality and optimized the backend for improved performance and responsiveness.",
     tags: [
       {
         name: "React JS",

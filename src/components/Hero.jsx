@@ -23,7 +23,7 @@ const Hero = () => {
           </p>
           <div className="mt-8">
             <a
-              href="/pdf/final_resume.pdf"
+              href="/pdf/ITRESUME_LATEST.pdf"
               download="Resume.pdf"
               className="btn btn-outline-warning my-3 border-2 border-zinc-600 rounded-lg p-1 text-zinc-200 hover:bg-violet-700 hover:text-white transition duration-300 ease-in-out"
              >
